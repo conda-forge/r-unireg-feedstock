@@ -1,11 +1,11 @@
-About r-unireg
-==============
+About r-unireg-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-unireg-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=uniReg
 
 Package license: GPL (>= 3)
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-unireg-feedstock/blob/main/LICENSE.txt)
 
 Summary: Univariate spline regression. It is possible to add the shape constraint of unimodality and predefined or self-defined penalties on the B-spline coefficients.
 
